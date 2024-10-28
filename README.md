@@ -8,6 +8,6 @@ A real-time chat application built with React and Vite, using Firebase for backe
 - Image Sharing: Upload and share images with other users.
 
 # Technologies Used
-Frontend: React + Vite
-Backend & Database: Firebase (Firestore for database, Firebase Authentication for user management, and Firebase Storage for image storage)
-Styling: CSS Modules
+- Frontend: React + Vite
+- Backend & Database: Firebase (Firestore for database, Firebase Authentication for user management, and Firebase Storage for image storage)
+- Styling: CSS Modules
